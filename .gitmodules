@@ -1,0 +1,3 @@
+[submodule "libstm8"]
+	path = libstm8
+	url = https://github.com/mnd/libstm8.git
